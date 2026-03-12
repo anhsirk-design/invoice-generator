@@ -1,0 +1,5 @@
+flask
+docxtpl
+docx2pdf
+python-docx
+pywin32
